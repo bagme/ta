@@ -10,6 +10,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://bagmeta.win/categories/index.html</loc>
+    
+    <lastmod>2022-03-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bagmeta.win/tags/index.html</loc>
+    
+    <lastmod>2022-03-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://bagmeta.win/</loc>
@@ -19,6 +37,20 @@
   </url>
 
   
+  <url>
+    <loc>https://bagmeta.win/tags/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2022-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://bagmeta.win/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2022-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
